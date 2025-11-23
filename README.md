@@ -11,6 +11,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, React, Node, MERN**
+- 💬 Ask me about **JavaScript, React, Node, Mongodb**
  
 - 📫 How to reach me **karthik.k00012@gmail.com**
